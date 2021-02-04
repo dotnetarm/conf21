@@ -1,0 +1,134 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+.theme-color {
+  color: #9b5bf1;
+}
+
+.text-big {
+  font-size: xx-large;
+}
+
+.speaker {
+  display: flex;
+  flex-direction: row;
+}
+
+.speaker .image-section {
+  width: 30%;
+  padding: 50px;
+}
+
+.speaker .image-section img {
+  width: 100%;
+}
+
+.info-section {
+  padding-top: 50px;
+  width: 70%;
+}
+
+.info-section h2 {
+  padding: 20px 0;
+}
+
+.info-section h5 {
+  padding: 10px 0;
+}
+
+.info-section h4 {
+  padding: 20px 0;
+}
+
+@media (max-width: 1200px) {
+  .speaker .image-section {
+    width: 50%;
+  }
+  .info-section {
+    padding-top: 50px;
+    width: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .speaker {
+    flex-direction: column;
+    padding: 50px;
+  }
+  .speaker .image-section {
+    width: 100%;
+  }
+  .info-section {
+    width: 100%;
+  }
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}

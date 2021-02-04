@@ -1,0 +1,122 @@
+[
+    {
+        "Name": "David Babayan",
+        "Experience": 8,
+        "Possition": "CEO",
+        "Company": "Madatech",
+        "Bio": "Senior Product and Marketing Manager with 6+ year experience. Software developer with 8+ years of experience. Strategic Marketer with extansive experience in IT industry.<br/><br/>- Outcome-Driven Innovation evangelist.<br/>- JavaScript and C# ninja.<br/>- PowerApps fun and developer #PowerAddicted<br/>- Microsoft Flow developer #FlowAddicted<br/><br/>Ex-Microsoft Lumia Representative in Armenia!<br/><br/>Founder and leader of .NET Community Armenia<br/><br/>Product Management, Project Management, Business Manangement, Programming and Leadership trainer. Business mentor and Agile coach.",
+        "Image": "davidbabayan.jpg"
+    },
+    {
+        "Name": "Levon Hovhannisyan",
+        "Experience": 14,
+        "Possition": "Cloud Solution Architect",
+        "Company": "Microsoft",
+        "Bio": "",
+        "Image": "levonhovhannisyan.jpg"
+    },
+    {
+        "Name": "Gagik Kyurkchyan",
+        "Experience": 11,
+        "Possition": "CEO",
+        "Company": "XamLab",
+        "Bio": "Gagik Kyurkchyan is a husband, a father, an avid software engineer as well as the CEO & Founder at Xamlab, which delivers native & cross platform mobile solutions.<br/><br/>Over the past 10 years he has gone through different software development practices - starting his career as .NET Engineer. After 2 years he decided to become a freelancer and totally switch to mobile development world as native iOS developer. Soon after discovering Xamarin, and being passionate about everything cross-platform, and everything both C# & native iOS development skills he became highly successful as Xamarin developer, delivering mobile solutions to wide range of industries.<br/><br/>3 years ago, he also founded software outsourcing and consulting company - Xamlab. As of today, he is passionate about both Xamarin and delivering scalable cloud solutions on Azure.<br/><br/>When he’s not writing code, you can find him spending time with his family and friends, skiing, learning a lot about renewable energy and smart home, watching movies, going to gym and motorcycling.",
+        "Image": "gagikkyurkchyan.jpg"
+    },
+    {
+        "Name": "Vardan Sargsyan",
+        "Experience": 5,
+        "Possition": "CEO",
+        "Company": "Floopp",
+        "Bio": "Vardan is a Senior Xamarin Software Engineer for nearly five years, working across a diverse range of native and cross-platform projects. The cognition with Xamarin was very accidental, and he could not even assume that it would become a truthful romantic engagement. Vardan is a hardworking person and loves his job. He believes that taking on new challenges and not being afraid of them is the only way for growing as a professional. He has successfully completed two master's degrees in the YSU and AUA, and he is not going to stop. Vardan's vision can be summarized with a three-word combination:<br/>Work Hard<br/>Dream Big<br/>Never give up",
+        "Image": "vardansargsyan.jpg"
+    },
+    {
+        "Name": "Chris Sienkiewicz",
+        "Experience": 12,
+        "Possition": "Senior Software Engineer",
+        "Company": "Microsoft",
+        "Bio": "Chris Sienkiewicz is a Senior Software Engineer in the managed compilers team at Microsoft.<br/><br/>Chris has been at Microsoft for nearly 10 years, working across a diverse range of projects and departments including several years at Microsoft Research.<br/><br/>For the last three years he's been doing his dream job building the Roslyn compiler, most recently leading the Source Generators feature.<br/><br/>He lives in Seattle with his Wife and two dogs.",
+        "Image": "chrissienkiewicz.jpg"
+    },
+    {
+        "Name": "Ruben Markosyan",
+        "Experience": 25,
+        "Possition": "Team Lead, Senior .Net Developer",
+        "Company": "Volo",
+        "Bio": "Ruben Markosyan is a senior software engineer, software architect, and a technical team lead at VOLO with an extensive experience in estimation, design, and implementation of enterprise business applications. <br/><br/>Ruben is a recognized expert in a range of programming languages and technologies, as well as database design, Client/Server applications development, E-commerce solutions, ERP and CRM systems, Blockchain and Smart contracts. <br/><br/>Ruben is certified in MCP (since 2004) and MCSD: Web Applications (since 2006) by Microsoft Corporation. He also holds a range of other certifications in Microsoft-related technologies.<br/><br/>One of Ruben’s latest professional passions is Blockchain, of which he has extensive knowledge, with a special focus on Bloackchain-as-a-Service (BAAS).<br/><br/>As Ruben himself often says, the main difference between Technical Team Leads and Senior Software Engineers is that in addition to their strong technical prowess, the former also have highly developed communication and leadership skills, both of which he is known and admired for in VOLO and in the tech community at large. So it is little wonder that his team members often refer to him as “Trainer” or “Coach.”",
+        "Image": "rubenmarkosyan.jpg"
+    },
+    {
+        "Name": "Nune Darbinyan",
+        "Experience": 11,
+        "Possition": "Team Lead, Senior .Net Developer",
+        "Company": "Volo",
+        "Bio": "Nune Darbinyan is a senior software engineer and a technical team lead in VOLO and has been managing cross-functional teams and major enterprise projects for already 10 years. <br/><br/>Nune graduated from the National Polytechnic University of Armenia, Faculty of Applied Mathematics and Informatics. She started her career as a .Net Developer in 2011. She wrote her first program in C++ at the age of 12.  <br/><br/>She is certified in MCSD: Web Applications (since 2014) by Microsoft Corporation. <br/><br/>Alongside development, she is also passionate about chess. Nune has been a professional chess player for years and considers it an asset in her line of work. She strongly believes that people who think a few steps ahead are always in control of the situation. <br/><br/>Besides her impressive technical skills, Nune has a very unique leadership style that makes her a great mentor and coach who nurtures her team members, supports their professional growth, and creates a one-of-a-kind working environment. ",
+        "Image": "nunedarbinyan.jpg"
+    },
+    {
+        "Name": "Ararat Harutyunyan",
+        "Experience": 4,
+        "Possition": ".Net Developer",
+        "Company": "Volo",
+        "Bio": "Ararat Harutyunyan is an experienced .Net Developer in VOLՕ. He has a Master’s Degree in Informatics and Computer Engineering (Institute for Informatics ad Automation Problems of the National Academy of Sciences of the Republic of Armenia). <br/><br/>Having worked on varied and numerous projects throughout his career, he has amassed considerable knowledge in cloud development, insurance business, event management, commodities, and blockchain solutions.<br/><br/>For Ararat, development is not only a profession but also a hobby. He truly enjoys coding, solving complex problems, and having an input in business logic implementation.",
+        "Image": "araratharutyunyan.jpg"
+    },
+    {
+        "Name": "Yervand Abrahamyan",
+        "Experience": 9,
+        "Possition": "Senior .Net Developer",
+        "Company": "Volo",
+        "Bio": "Yervand Abrahamyan is a senior .Net Developer in VOLO. He has a Bachelor's Degree in Applied Mathematics from Yerevan State University.<br/><br/>He has extensive experience in developing and managing enterprise web applications (design, implementation, estimation), database architecture, and client/server applications development. <br/><br/>As a person who always keeps his hand on the pulse of the latest technological updates, Yervand has become quite experienced in developing web applications with Blazor, and he’ll share this experience in his talk. <br/><br/>Yervand is an out-of-the-box thinker, and life-long learner with a constant strive for excellence, who is not afraid of taking responsibility and diving into the unknown. He never takes the tasks at hand at face value, always making it a point to delve deep into the business side of the application in order to create not only a working app, but a solution that reflects the business intricacies.",
+        "Image": "yervandabrahamyan.jpg"
+    },
+    {
+        "Name": "Vanik Hakobyan",
+        "Experience": 5,
+        "Possition": "Senior Software Engineer",
+        "Company": "BetConstruct",
+        "Bio": "I work as a Senior Software Engineer at BetConstruct. I specialize in the backend, APIs, web-services, and desktop applications. I've been developing in multinational companies since the 2017 year using SCRUM and best development practices. My biggest achievement is working as Software Trainer at ISTC, cause the influence and impact I have on students professional lives can stay with them throughout their journey.",
+        "Image": "vanikhakobyan.jpg"
+    },
+    {
+        "Name": "Gor Rustamyan",
+        "Experience": 13,
+        "Possition": "Senior .NET Developer",
+        "Company": "ServiceTitan",
+        "Bio": "I'm .NET developer with over 12 years experience. I started my programming journey at high school in programming section with solving programming contest problems. Here I learned bases of programming - classic algorithms and data structures. At this stage I already knew Visual Basic 6.0, Pascal and C++ languages. My next step was getting deep understanding of Computer Science, so I dive into math in university. Algebras, Automatons, Boolean functions, Gödel's theorem and Turing machine - this was mind blowing! To get more practical knowledge, in parallel I started working at Mer Soft LLC as junior developer by learning C# programming language and WinForms technology. ",
+        "Image": "gorrustamyan.jpg"
+    },
+    {
+        "Name": "Donovan Brown",
+        "Experience": 29,
+        "Possition": "Partner Program Manager",
+        "Company": "Microsoft",
+        "Bio": "Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on Microsoft's Cloud Developer Advocacy team. Why is DevOps one of the hottest topics? Because it hurts the most. Luckily, Donovan's unofficial tag line is #RubDevOpsOnIt and he's here to make it all better. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Developer Tools are his thing. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices, Visual Studio, and Team Foundation Server in industries as broad as Communications, Health Care, Energy, and Financial Services. What else keeps the wheels spinning on The Man in The Black Shirt? Donovan's also an avid programmer, often finding ways to integrate software into his other hobbies and activities, one of which is Professional Air Hockey where he has ranked as high as 11 in the world.",
+        "Image": "donovanbrown.jpg"
+    },
+    {
+        "Name": "Christopher Harrison",
+        "Experience": 21,
+        "Possition": "Senior Program Manager",
+        "Company": "Microsoft",
+        "Bio": "I'm a developer with a web and data focus. Longtime trainer with a passion for learning. Love TypeScript and Python.<br/><br/>Focused on student experiences for college students and lifetime learners looking to explore web development and AI. Manage hackathon experience and events. Create training content.",
+        "Image": "christopherharrison.jpg"
+    },
+    {
+        "Name": "Luis Quintanilla",
+        "Experience": 7,
+        "Possition": "Content Developer",
+        "Company": "Microsoft",
+        "Bio": "Luis Quintanilla is a passionate technologist with experience in machine learning and software development. His main area of focus is creating resources that make it easier for developers to get started in their artificial intelligence and machine learning journey.<br/><br/>In previous roles, he served as an analytics developer in the financial services industry as well as an artificial intelligence consultant where he helped clients envision how they could transform their business through artificial intelligence and machine learning solutions.<br/><br/>When not at work, he's usually tinkering with different tools/technologies, applying them in different scenarios and sharing findings with others.",
+        "Image": "luisquintanilla.jpg"
+    },
+    {
+        "Name": "Alex Yakunin",
+        "Experience": 22,
+        "Possition": "CTO",
+        "Company": "ServiceTitan",
+        "Bio": "Alex is the creator of <a target='_blank' href='https: //github.com/servicetitan/Stl.Fusion'>Fusion</a> - an open-source library for .NET 5.0 and Blazor implementing a novel approach to distributed reactive computing. It brings computed observables and automatic dependency tracking from Knockout.js/MobX/Vue to the next level by enabling a single dependency graph span multiple servers and clients — in particular, Blazor apps running in browser. Fusion helps you to build fully real-time UIs and get 10-1000x API responses, and all of this requires almost zero extra code.<br/><br/>Alex is also the CTO of ServiceTitan, Inc. - a company with Armenian founders developing #1 Field Service Platform and ranked #11 in Forbes Cloud 100 2020. The company's HQ is based in Los Angeles, but it has a fairly big team of rock-star engineers in Yerevan.",
+        "Image": "alexyakunin.jpg"
+    }
+]

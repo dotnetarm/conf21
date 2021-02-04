@@ -1,0 +1,133 @@
+[
+  {
+    "startTime": "11:00",
+    "topic": "Welcome to .Net Conf Arm!",
+    "Record": "https://www.youtube.com/watch?v=an5YH_gq0Dc&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=1&t=6s",
+    "Presentation": "",
+    "speakers": [
+      "David Babayan"
+    ]
+  },
+  {
+    "startTime": "11:10",
+    "topic": "Keynote",
+    "Record": "https://www.youtube.com/watch?v=8qwkxDGvigw&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=2",
+    "Presentation": "/files/keynote.pptx",
+    "speakers": [
+      "Levon Hovhannisyan",
+      "David Babayan"
+    ]
+  },
+  {
+    "startTime": "12:00",
+    "topic": "Interview With Donovan Brown",
+    "Record": "https://www.youtube.com/watch?v=2qFBNpVio-c&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=3",
+    "Presentation": "",
+    "speakers": [
+      "Donovan Brown"
+    ]
+  },
+  {
+    "startTime": "12:30",
+    "topic": "What's new in .NET 5, C# 9 and F# 5",
+    "Record": "https://www.youtube.com/watch?v=hiD0Y5hzK_k&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=4",
+    "Presentation": "",
+    "speakers": [
+      "Chris Sienkiewicz"
+    ]
+  },
+  {
+    "startTime": "13:30",
+    "topic": "Go Serverless with Blazor, Azure Functions and Azure Static Web Apps",
+    "Record": "https://www.youtube.com/watch?v=YQHQSENpdns&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=5",
+    "Presentation": "",
+    "speakers": [
+      "Levon Hovhannisyan",
+      "David Babayan"
+    ]
+  },
+  {
+    "startTime": "14:30",
+    "topic": "Developing APIs with .NET 5",
+    "Record": "https://www.youtube.com/watch?v=OuUgLLf5HY4&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=6",
+    "Presentation": "",
+    "speakers": [
+      "Vanik Hakobyan"
+    ]
+  },
+  {
+    "startTime": "15:00",
+    "topic": "20 reasons to build your next app with Xamarin",
+    "Record": "https://www.youtube.com/watch?v=hQgG_TwzCKs&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=7",
+    "Presentation": "",
+    "speakers": [
+      "Gagik Kyurkchyan",
+      "Vardan Sargsyan"
+    ]
+  },
+  {
+    "startTime": "15:30",
+    "topic": "Blazor Updates in .NET 5",
+    "Record": "https://www.youtube.com/watch?v=8uyewwvgNjk&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=8",
+    "Presentation": "",
+    "speakers": [
+      "Yervand Abrahamyan"
+    ]
+  },
+  {
+    "startTime": "16:00",
+    "topic": "Using WSL2 in .NET 5",
+    "Record": "https://www.youtube.com/watch?v=jmxxl7r2728&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=9",
+    "Presentation": "",
+    "speakers": [
+      "Ruben Markosyan"
+    ]
+  },
+  {
+    "startTime": "16:45",
+    "topic": "Building Netflix clone with Xamarin",
+    "Record": "https://www.youtube.com/watch?v=TkajML-0_Ek&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=10",
+    "Presentation": "",
+    "speakers": [
+      "Gagik Kyurkchyan",
+      "Vardan Sargsyan"
+    ]
+  },
+  {
+    "startTime": "17:15",
+    "topic": "Upgrading a Real-life Project to .NET 5",
+    "Record": "https://www.youtube.com/watch?v=Ko6ZkS_abq4&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=11",
+    "Presentation": "",
+    "speakers": [
+      "Nune Darbinyan",
+      "Ararat Harutyunyan"
+    ]
+  },
+  {
+    "startTime": "18:00",
+    "topic": "Using .NET interactive for demos and teaching",
+    "Record": "https://www.youtube.com/watch?v=tBV4tlMBZ6w&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=12",
+    "Presentation": "https://github.com/lqdev/Presentations/raw/master/NetConfArm2021/slides/DotnetJupyterNotebooks.pdf",
+    "speakers": [
+      "Luis Quintanilla"
+    ]
+  },
+  {
+    "startTime": "18:30",
+    "topic": "Fusion: implementing a novel approach to distributed reactive computing",
+    "Record": "https://www.youtube.com/watch?v=xDymhmLLSgw&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=13",
+    "Presentation": "https://alexyakunin.github.io/Stl.Fusion.Materials/Slides/Fusion_v1/Slides.html",
+    "speakers": [
+      "Alex Yakunin"
+    ]
+  },
+  {
+    "startTime": "19:30",
+    "topic": "Cross-platform desktop app in .NET (Avalonia)",
+    "Record": "https://www.youtube.com/watch?v=fAHXrfmYVCk&list=PLsNkSP4XTNyielpYzvQURS77pkAdsL2yC&index=14",
+    "Presentation": "",
+    "speakers": [
+      "Gor Rustamyan"
+    ]
+  }
+]

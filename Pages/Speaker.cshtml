@@ -1,0 +1,27 @@
+@page "{name}"
+
+@using Microsoft.AspNetCore.Components
+
+@model SpeakerModel
+@{
+    ViewData["Title"] = Model.Speaker.Name;
+}
+
+<div class="speaker">
+    <div class="image-section">
+        <img rel=@Model.Speaker.Name src="~/img/@Model.Speaker.Image" />
+    </div>
+    <div class="info-section">
+        <h2>@Model.Speaker.Name</h2>
+        <h5>
+            <b>Job:</b> @Model.Speaker.Possition, @Model.Speaker.Company
+        </h5>
+        <h5>
+            <b>Years of experience:</b> @Model.Speaker.Experience
+        </h5>
+        <h4>Bio</h4>
+        <P>
+            @(Html.Raw(Model.Speaker.Bio))
+        </P>
+    </div>
+</div>

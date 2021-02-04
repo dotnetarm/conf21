@@ -1,0 +1,64 @@
+@page
+@model AgendaModel
+@{
+    ViewData["Title"] = "Agenda";
+}
+
+<div class='agenda-body'>
+    <h1 class='theme-color'>Agenda</h1>
+
+    <div>
+        <p>The event will start at 11:00 AM and will include:</p>
+        <ul>
+            <li>11:00 - Keynot. Welcome to .NET Conf Arm</li>
+            <li>11:30 - Interviews with Microsoft Representatives</li>
+            <li>12:30 - Technical talks</li>
+        </ul>
+    </div>
+
+    <div class='my-5'>
+        <p>Here is detailed agenda</p>
+        <div class="table-responsive">
+            <table class='table  table-hover table-bordered table-nowrap'>
+                <thead>
+                    <tr>
+                        <th class='theme-bg-color color-white'>
+                            Start Time
+                        </th>
+                        <th class='theme-bg-color color-white'>
+                            Topic
+                        </th>
+                        <th class='theme-bg-color color-white'>
+                            Speakers
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.agenda)
+                    {
+                        <tr key=@item.topic>
+                            <td class='align-middle'>
+                                <p>@item.startTime</p>
+                            </td>
+                            <td class='align-middle'>
+                                <p>
+                                    <a target="_blank" href=@item.Record><b>@item.topic</b></a>
+                                    @if(item.Presentation != "")
+                                    {
+                                        <a target="_blank" href=@item.Presentation>(Presentation)</a>
+                                    }
+                                </p>
+                            </td>
+                            <td class='align-middle'>
+                                @foreach (var speaker in item.speakers)
+                                {
+                                    <a href="/speaker/@speaker"><p key=@speaker>@speaker</p></a>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
